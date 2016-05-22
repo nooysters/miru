@@ -1,4 +1,4 @@
-var game = (function() {
+var PaperRockScissors = (function() {
 	
 	return {
 
@@ -66,7 +66,7 @@ var game = (function() {
 	
 })();
 
-var newGame = game;
+var newGame = PaperRockScissors;
 
 while (newGame.gameover === false) {
 	var input = prompt("rock, paper, scissors, 0 to exit");
