@@ -1,5 +1,4 @@
-
-game = (function() {
+var game = (function() {
 	
 	return {
 
