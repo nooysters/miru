@@ -1,5 +1,5 @@
 
-game = function() {
+game = (function() {
 	
 	return {
 
