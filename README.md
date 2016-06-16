@@ -30,5 +30,13 @@ String.toUpperCase();
 
 Array.reverse();
 Array.join('');
+Array.length();
+Array.filter();
+Array.map();
+Array.forEach();
+Array.reduce();
+Array.concat();
+
+
 
 ```
