@@ -36,7 +36,9 @@ Array.map();
 Array.forEach();
 Array.reduce();
 Array.concat();
-
+Array.split();
+Array.sort();
+Array.every();
 
 
 ```
